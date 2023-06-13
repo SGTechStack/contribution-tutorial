@@ -1,4 +1,6 @@
 ---
+id: installation-and-guide
+slug: /
 sidebar_position: 1
 ---
 
@@ -12,6 +14,9 @@ Get started by reading the following articles/tutorials.
 
 ### React
 - [Learn React](https://react.dev/learn)
+
+### Frontend Bundler
+- [RollUp](https://rollupjs.org): Javascript Module Bundler
 
 ### Spring Boot
 - [Spring.io guide - Spring Boot Tutorial](https://spring.io/guides/gs/spring-boot/)
