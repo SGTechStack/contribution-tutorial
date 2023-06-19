@@ -21,12 +21,14 @@ Get started by reading the following articles/tutorials.
 ### Java
 - [Tutorial Point - Java](https://www.tutorialspoint.com/java/index.htm)
 - [W3school - Java](https://www.w3schools.com/java/)
+- [FreeCodeCamp Video - Java Crash Course](https://www.youtube.com/watch?v=A74TOX803D0)
 
 ### Spring
  - [**Recommended** Tutorial Point - Spring](https://www.tutorialspoint.com/spring/index.htm)
  - [**Recommended** Tutorial Point - Spring Quick Guide](https://www.tutorialspoint.com/spring/spring_quick_guide.htm)
  - [Spring Bean Life Cycle](https://howtodoinjava.com/spring-core/spring-bean-life-cycle/)
  - [Baeldung - Spring Bean](https://www.baeldung.com/spring-bean)
+ - [FreeCodeCamp Video - Spring Crash Course](https://www.youtube.com/watch?v=vtPkZShrvXQ)
 
 ### Spring Boot
 - [Spring.io guide - Spring Boot Tutorial](https://spring.io/guides/gs/spring-boot/)
