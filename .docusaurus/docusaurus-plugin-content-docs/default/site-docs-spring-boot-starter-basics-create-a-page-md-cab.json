@@ -1,0 +1,27 @@
+{
+  "unversionedId": "spring-boot-starter-basics/create-a-page",
+  "id": "spring-boot-starter-basics/create-a-page",
+  "title": "Create a starter library",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/spring-boot-starter-basics/create-a-page.md",
+  "sourceDirName": "spring-boot-starter-basics",
+  "slug": "/spring-boot-starter-basics/create-a-page",
+  "permalink": "/docs/spring-boot-starter-basics/create-a-page",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/spring-boot-starter-basics/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spring Boot Starter - Basics",
+    "permalink": "/docs/category/spring-boot-starter---basics"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/spring-boot-starter-basics/congratulations"
+  }
+}
