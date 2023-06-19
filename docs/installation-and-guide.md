@@ -18,6 +18,10 @@ Get started by reading the following articles/tutorials.
 ### Frontend Bundler
 - [RollUp](https://rollupjs.org): Javascript Module Bundler
 
+### Java
+- [Tutorial Point - Java](https://www.tutorialspoint.com/java/index.htm)
+- [W3school - Java](https://www.w3schools.com/java/)
+
 ### Spring
  - [**Recommended** Tutorial Point - Spring](https://www.tutorialspoint.com/spring/index.htm)
  - [**Recommended** Tutorial Point - Spring Quick Guide](https://www.tutorialspoint.com/spring/spring_quick_guide.htm)
