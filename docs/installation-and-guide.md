@@ -18,6 +18,12 @@ Get started by reading the following articles/tutorials.
 ### Frontend Bundler
 - [RollUp](https://rollupjs.org): Javascript Module Bundler
 
+### Spring
+ - [**Recommended** Tutorial Point - Spring](https://www.tutorialspoint.com/spring/index.htm)
+ - [**Recommended** Tutorial Point - Spring Quick Guide](https://www.tutorialspoint.com/spring/spring_quick_guide.htm)
+ - [Spring Bean Life Cycle](https://howtodoinjava.com/spring-core/spring-bean-life-cycle/)
+ - [Baeldung - Spring Bean](https://www.baeldung.com/spring-bean)
+
 ### Spring Boot
 - [Spring.io guide - Spring Boot Tutorial](https://spring.io/guides/gs/spring-boot/)
 - [Tutorials Point - Spring Boot Tutorial](https://www.tutorialspoint.com/spring_boot/index.htm)
