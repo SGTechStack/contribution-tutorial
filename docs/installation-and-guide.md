@@ -12,14 +12,14 @@ This tutorial is useful to understand how to contribute to our reusable librarie
 
 Get started by reading the following articles/tutorials.
 
+### Fundalmentals - Object Oriented Programming
+- [FreeCodeCamp Video - Object Oriented Programming Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
 ### React
 - [Learn React](https://react.dev/learn)
 
 ### Frontend Bundler
 - [RollUp](https://rollupjs.org): Javascript Module Bundler
-
-### OOP
-- [FreeCodeCamp Video - Object Oriented Programming Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
 ### Java
 - [Tutorial Point - Java](https://www.tutorialspoint.com/java/index.htm)
