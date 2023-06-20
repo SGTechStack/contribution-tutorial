@@ -13,10 +13,15 @@ This tutorial is useful to understand how to contribute to our reusable librarie
 Get started by reading the following articles/tutorials.
 
 ### Fundalmentals 
+
 #### Object Oriented Programming
 - [FreeCodeCamp Video - Object Oriented Programming Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
 #### SOLID Principles
 - [**Important** SOLID Principles](https://www.baeldung.com/solid-principles)
+
+
+
 ### React
 - [Learn React](https://react.dev/learn)
 
@@ -76,3 +81,6 @@ Get started by reading the following articles/tutorials.
 - [HomeBrew](https://formulae.brew.sh/formula/openjdk@17)
 - [Chocolatey](https://community.chocolatey.org/packages/openjdk/17.0.2)
 - [Manual Download](https://jdk.java.net/archive/)
+
+### SSH
+- [Github - SSH Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
