@@ -15,7 +15,7 @@ Get started by reading the following articles/tutorials.
 ### Fundalmentals 
 #### Object Oriented Programming
 - [FreeCodeCamp Video - Object Oriented Programming Crash Course](https://www.youtube.com/watch?v=SiBw7os-_zI)
-#### 
+#### SOLID Principles
 - [**Important** SOLID Principles](https://www.baeldung.com/solid-principles)
 ### React
 - [Learn React](https://react.dev/learn)
