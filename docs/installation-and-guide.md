@@ -56,6 +56,10 @@ Get started by reading the following articles/tutorials.
 - [Oracle - JavaDoc](https://www.oracle.com/sg/technical-resources/articles/java/javadoc-tool.html)
 - [Baeldung - JavaDoc](https://www.baeldung.com/javadoc)
 
+### Jasper Report
+- [Tutorials Point - Jasper Report Tutorial](https://www.tutorialspoint.com/jasper_reports/index.htm)
+- [Baeldung - Jasper Report with Spring](https://www.baeldung.com/spring-jasper)
+
 ### What you'll need
 
 #### Package Manager (Recommended, instead of installing programs manually) Or you can use any other package managers.
