@@ -82,5 +82,5 @@ Get started by reading the following articles/tutorials.
 - [Chocolatey](https://community.chocolatey.org/packages/openjdk/17.0.2)
 - [Manual Download](https://jdk.java.net/archive/)
 
-### SSH
+#### SSH
 - [Github - SSH Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
